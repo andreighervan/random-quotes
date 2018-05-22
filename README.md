@@ -1,4 +1,4 @@
-# random_quotes
+# Random Quotes
 This app will display random quotes using the Forismatic API
 
 Project description
